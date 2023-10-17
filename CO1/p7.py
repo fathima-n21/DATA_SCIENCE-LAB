@@ -21,9 +21,9 @@ complex_num1=complex_number(real1,image1)
 complex_num2=complex_number(real2,image2)
 add_result=complex_num1+complex_num2
 sub_result=complex_num1-complex_num2
-multi_result=complex_num1*complex_num2
+multi_result=complex_num1**complex_num2
 print("First complex number:",complex_num1)
 print("Second complex number:",complex_num2)
-print("Addition result:",add_resut)
-print("Subtraction result:",sub_resut)
-print("Multiplication result:",multi_resut)
+print("Addition result:",add_result)
+print("Subtraction result:",sub_result)
+print("Multiplication result:",multi_result)
